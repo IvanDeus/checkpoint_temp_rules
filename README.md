@@ -100,12 +100,4 @@ Logs all script actions and API interactions for review and troubleshooting.
 
 ---
 
-## 🧩 Customization Tips
-
-- Modify the script to export data to Excel or JSON instead of CSV.
-- Add filters to exclude specific packages or layers.
-- Integrate with email or ticketing systems to notify owners of upcoming rule expirations.
-
----
-
 [ivan deus] 
