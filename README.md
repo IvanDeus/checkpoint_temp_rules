@@ -4,6 +4,11 @@ A Python script to help identify **temporary access rules** in your Check Point 
 
 You can run this script in interactive mode or from a task scheduler.
 
+## Requirements 
+
+Official Check Point API [cpapi library](https://github.com/CheckPointSW/cp_mgmt_api_python_sdk).
+
+
 ## 📄 Script: `cp_find_temp_rules.py`
 
 ### ✅ Purpose:
